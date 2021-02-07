@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+cmake-build-debug
+Testing
+.idea
+CMakeFiles
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+.gitignore
+.gitattributes
+noise-filter.cbp
+1-10.bin
